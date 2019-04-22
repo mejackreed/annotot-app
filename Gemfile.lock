@@ -42,6 +42,8 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
+    annotot (0.6.0)
+      rails (~> 5.1)
     arel (9.0.0)
     bindex (0.7.0)
     bootsnap (1.4.3)
@@ -143,6 +145,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  annotot
   bootsnap (>= 1.1.0)
   byebug
   jbuilder (~> 2.5)
